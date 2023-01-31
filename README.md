@@ -1,2 +1,1 @@
-# sample-repo
-udeny git course
+変更
